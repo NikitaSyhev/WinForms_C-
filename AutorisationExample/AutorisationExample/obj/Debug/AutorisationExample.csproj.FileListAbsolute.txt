@@ -1,0 +1,118 @@
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\bin\Debug\AutorisationExample.exe.config
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\bin\Debug\AutorisationExample.exe
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\bin\Debug\AutorisationExample.pdb
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.AssemblyReference.cache
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.SuggestedBindingRedirects.cache
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.Form1.resources
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.Properties.Resources.resources
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.GenerateResource.cache
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.CoreCompileInputs.cache
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.exe
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.pdb
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\bin\Debug\SQLitePCLRaw.core.dll
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\bin\Debug\System.Buffers.dll
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\bin\Debug\System.Memory.dll
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\bin\Debug\System.Numerics.Vectors.dll
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\bin\Debug\System.Buffers.xml
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\bin\Debug\System.Memory.xml
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\bin\Debug\System.Numerics.Vectors.xml
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Корнеев Д.А\20230906_WPF\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.CopyComplete
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\AutorisationExample.exe.config
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\AutorisationExample.exe
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\AutorisationExample.pdb
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\EntityFramework.dll
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\EntityFramework.SqlServer.dll
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\SQLitePCLRaw.core.dll
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Buffers.dll
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Data.SQLite.dll
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Data.SQLite.EF6.dll
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Data.SQLite.Linq.dll
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Memory.dll
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Numerics.Vectors.dll
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\EntityFramework.xml
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\EntityFramework.SqlServer.xml
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Buffers.xml
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Data.SQLite.xml
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Memory.xml
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Numerics.Vectors.xml
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.AssemblyReference.cache
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.SuggestedBindingRedirects.cache
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.Form1.resources
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.Properties.Resources.resources
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.GenerateResource.cache
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.CoreCompileInputs.cache
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.CopyComplete
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.exe
+D:\desktop\Other carrier\IT Step(TOP)\C#\2023_БВ222\WF_WPF\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.pdb
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\AutorisationExample.exe.config
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\AutorisationExample.exe
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\AutorisationExample.pdb
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\EntityFramework.dll
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\EntityFramework.SqlServer.dll
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\SQLitePCLRaw.core.dll
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Buffers.dll
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Data.SQLite.dll
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Memory.dll
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Numerics.Vectors.dll
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\EntityFramework.xml
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\EntityFramework.SqlServer.xml
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Buffers.xml
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Data.SQLite.xml
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Memory.xml
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Numerics.Vectors.xml
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.AssemblyReference.cache
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.SuggestedBindingRedirects.cache
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.Form1.resources
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.Properties.Resources.resources
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.GenerateResource.cache
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.CoreCompileInputs.cache
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.CopyComplete
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.exe
+E:\Корнеев Д.А\20230912\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.pdb
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\AutorisationExample.exe.config
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\AutorisationExample.exe
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\AutorisationExample.pdb
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\EntityFramework.dll
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\System.Buffers.dll
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\System.Data.SQLite.dll
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\System.Memory.dll
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\EntityFramework.xml
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\System.Buffers.xml
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\System.Data.SQLite.xml
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\System.Memory.xml
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.AssemblyReference.cache
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.Form1.resources
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.Properties.Resources.resources
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.GenerateResource.cache
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.CoreCompileInputs.cache
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.csproj.CopyComplete
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.exe
+C:\Users\nosychev\Desktop\Programmatic\Windows Forms\AutorisationExample\AutorisationExample\obj\Debug\AutorisationExample.pdb

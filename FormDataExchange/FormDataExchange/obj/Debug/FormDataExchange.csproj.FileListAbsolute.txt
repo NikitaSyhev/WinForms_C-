@@ -1,0 +1,12 @@
+E:\Корнеев Д.А\20230919_WPF\FormDataExchange\FormDataExchange\bin\Debug\FormDataExchange.exe.config
+E:\Корнеев Д.А\20230919_WPF\FormDataExchange\FormDataExchange\bin\Debug\FormDataExchange.exe
+E:\Корнеев Д.А\20230919_WPF\FormDataExchange\FormDataExchange\bin\Debug\FormDataExchange.pdb
+E:\Корнеев Д.А\20230919_WPF\FormDataExchange\FormDataExchange\obj\Debug\FormDataExchange.csproj.AssemblyReference.cache
+E:\Корнеев Д.А\20230919_WPF\FormDataExchange\FormDataExchange\obj\Debug\FormDataExchange.csproj.SuggestedBindingRedirects.cache
+E:\Корнеев Д.А\20230919_WPF\FormDataExchange\FormDataExchange\obj\Debug\FormDataExchange.Form1.resources
+E:\Корнеев Д.А\20230919_WPF\FormDataExchange\FormDataExchange\obj\Debug\FormDataExchange.Form2.resources
+E:\Корнеев Д.А\20230919_WPF\FormDataExchange\FormDataExchange\obj\Debug\FormDataExchange.Properties.Resources.resources
+E:\Корнеев Д.А\20230919_WPF\FormDataExchange\FormDataExchange\obj\Debug\FormDataExchange.csproj.GenerateResource.cache
+E:\Корнеев Д.А\20230919_WPF\FormDataExchange\FormDataExchange\obj\Debug\FormDataExchange.csproj.CoreCompileInputs.cache
+E:\Корнеев Д.А\20230919_WPF\FormDataExchange\FormDataExchange\obj\Debug\FormDataExchange.exe
+E:\Корнеев Д.А\20230919_WPF\FormDataExchange\FormDataExchange\obj\Debug\FormDataExchange.pdb
